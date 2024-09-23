@@ -35,8 +35,6 @@ Start Playing:
 ## Screenshots
 
 
-
-
 ## Contact
 For any queries or feedback, please contact:
 
