@@ -34,6 +34,16 @@ Start Playing:
 
 ## Screenshots
 
+![1](https://github.com/user-attachments/assets/29540acc-f688-4bcc-bfad-e3be922302b2)
+
+
+![2](https://github.com/user-attachments/assets/bdf6d7eb-9307-4010-872f-cd52c97fd04f)
+
+
+![3](https://github.com/user-attachments/assets/8ccd792b-6730-4d70-8a4e-207b9afdf157)
+
+
+
 
 ## Contact
 For any queries or feedback, please contact:
